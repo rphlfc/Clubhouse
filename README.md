@@ -3,8 +3,8 @@ Implemented the most commom screen we see online anytime there is a mention to [
 
 ## Screenshots
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/16376748/107157630-e59ecb00-6963-11eb-8824-879d485cf842.png" width="200"> &nbsp;
-    <img src="https://user-images.githubusercontent.com/16376748/107157633-e6cff800-6963-11eb-8f7d-0962ba4c8728.png" width="200"> &nbsp;
+    <img src="https://user-images.githubusercontent.com/16376748/107157630-e59ecb00-6963-11eb-8824-879d485cf842.png" width="400"> &nbsp;
+    <img src="https://user-images.githubusercontent.com/16376748/107157633-e6cff800-6963-11eb-8f7d-0962ba4c8728.png" width="400"> &nbsp;
 </p>
 
 ## Vídeos
