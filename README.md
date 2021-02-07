@@ -1,5 +1,5 @@
 # Clubhouse app with SwiftUI
-Implemented the most commom screen we see online anytime there is a mention to [Clubhouse](https://www.joinclubhouse.com) using SwiftUI.
+Implemented the most common screen we see online anytime there is a mention to [Clubhouse](https://www.joinclubhouse.com) using SwiftUI.
 
 ## Screenshots
 <p align="center">
